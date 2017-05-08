@@ -3,7 +3,7 @@
 		"description": "Dynamic DNS Updater. Supports a variety of protocols.",
 		"version": "1.0.0",
 		"website": "https://hub.docker.com/r/mace/ddclient/",
-		"more_info": "Rename the sample config to ddclient.conf in the host directory. The sample config will be avaible afer the first run. Email is supported buy the docker image but is not currently supported in this rock-on.",
+		"more_info": "Rename the sample config to ddclient.conf in the host directory. The sample config will be avaible afer the first run. Email is supported by the docker image but is not currently supported in this rock-on.",
 		"containers": {
 			"ddclient": {
 				"image": "mace/ddclient",
